@@ -71,7 +71,7 @@ Based on the predicted risk score, the individual is classified into one of the 
 
 This classification helps lenders make decisions about whether to approve or deny loans based on the risk assessment.
 
-### 7. ## Visuals 📊
+### 7. Visuals 📊
 - **Feature Importance**: The importance of each feature (income, credit score, social media sentiment, etc.) is visualized using a bar plot. This shows how each feature contributes to the credit risk score prediction.
 - **Monte Carlo Simulation Results**: The risk score distribution from the Monte Carlo simulations is plotted as a histogram, which helps visualize the uncertainty in the credit risk prediction.
 
